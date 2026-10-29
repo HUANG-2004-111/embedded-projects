@@ -24,6 +24,11 @@
 
 [下载四个项目的工程文件](embedded-projects-source.zip)。解压后可分别查看各项目的代码与 Keil 工程。
 
-演示视频正在整理，整理完成后将补充。
+## 实物演示视频
+
+- [循迹小车演示视频](https://github.com/HUANG-2004-111/embedded-projects/releases/download/v1.0.0/line-following.mp4)（约 146 MB）
+- [色块追踪演示视频](https://github.com/HUANG-2004-111/embedded-projects/releases/download/v1.0.0/color-tracking.mp4)（约 2 MB）
+
+视频可点击链接下载查看。
 
 工程包含芯片厂商及设备相关的第三方代码，原有版权与许可声明保留在相应文件中。
